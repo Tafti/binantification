@@ -1,1 +1,1 @@
-worker: python RSI_KAF.py
+worker: python script.py
